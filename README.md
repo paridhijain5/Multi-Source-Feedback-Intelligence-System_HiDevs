@@ -110,3 +110,7 @@ print(report_path)
 - The app intentionally degrades gracefully when APIs fail or rate limits occur.
 - If a live source is unavailable, it switches to mock sample data so the dashboard and PDF report remain demoable.
 - The dashboard supports date range, source, and sentiment filters in real time.
+
+
+## Demo
+[demo link](https://drive.google.com/file/d/1zQjwWfILdoc6RWzYKccGI86iKraBewvh/view?usp=sharing)

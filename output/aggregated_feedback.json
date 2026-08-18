@@ -1,0 +1,398 @@
+[
+  {
+    "date": "2026-08-01",
+    "source": "Google Play",
+    "rating": 5,
+    "text": "App is fast and the new dashboard looks great.",
+    "sentiment": "positive",
+    "sentiment_confidence": 0.7,
+    "sentiment_score": 0.625
+  },
+  {
+    "date": "2026-08-04",
+    "source": "Google Play",
+    "rating": 4,
+    "text": "Good experience overall, but notifications are delayed.",
+    "sentiment": "negative",
+    "sentiment_confidence": 0.282,
+    "sentiment_score": -0.103
+  },
+  {
+    "date": "2026-08-06",
+    "source": "Google Play",
+    "rating": 2,
+    "text": "The app keeps crashing on login and freezes often.",
+    "sentiment": "neutral",
+    "sentiment_confidence": 0.221,
+    "sentiment_score": -0.026
+  },
+  {
+    "date": "2026-08-09",
+    "source": "Google Play",
+    "rating": 1,
+    "text": "Very slow and the latest update broke sign in.",
+    "sentiment": "negative",
+    "sentiment_confidence": 0.537,
+    "sentiment_score": -0.421
+  },
+  {
+    "date": "2026-08-12",
+    "source": "Google Play",
+    "rating": 3,
+    "text": "Mostly okay, but the UI can be confusing.",
+    "sentiment": "negative",
+    "sentiment_confidence": 0.381,
+    "sentiment_score": -0.226
+  },
+  {
+    "date": "2026-08-15",
+    "source": "Google Play",
+    "rating": 5,
+    "text": "Love the new features and responsive support.",
+    "sentiment": "positive",
+    "sentiment_confidence": 0.884,
+    "sentiment_score": 0.856
+  },
+  {
+    "date": "2026-08-17",
+    "source": "Google Play",
+    "rating": 2,
+    "text": "Billing page error keeps showing up.",
+    "sentiment": "negative",
+    "sentiment_confidence": 0.522,
+    "sentiment_score": -0.402
+  },
+  {
+    "date": "2026-08-20",
+    "source": "Google Play",
+    "rating": 4,
+    "text": "Nice app, but some pages load slowly.",
+    "sentiment": "positive",
+    "sentiment_confidence": 0.381,
+    "sentiment_score": 0.226
+  },
+  {
+    "date": "2026-08-22",
+    "source": "Google Play",
+    "rating": 1,
+    "text": "The app fails to load after update.",
+    "sentiment": "negative",
+    "sentiment_confidence": 0.537,
+    "sentiment_score": -0.421
+  },
+  {
+    "date": "2026-08-25",
+    "source": "Google Play",
+    "rating": 5,
+    "text": "Smooth experience and very helpful reminders.",
+    "sentiment": "positive",
+    "sentiment_confidence": 0.58,
+    "sentiment_score": 0.475
+  },
+  {
+    "date": "2026-08-02",
+    "source": "App Store",
+    "rating": 5,
+    "text": "App works smoothly and is easy to use.",
+    "sentiment": "positive",
+    "sentiment_confidence": 0.552,
+    "sentiment_score": 0.44
+  },
+  {
+    "date": "2026-08-05",
+    "source": "App Store",
+    "rating": 3,
+    "text": "The UI is clean, but syncing is inconsistent.",
+    "sentiment": "positive",
+    "sentiment_confidence": 0.372,
+    "sentiment_score": 0.214
+  },
+  {
+    "date": "2026-08-08",
+    "source": "App Store",
+    "rating": 2,
+    "text": "Crashes when opening the dashboard.",
+    "sentiment": "neutral",
+    "sentiment_confidence": 0.2,
+    "sentiment_score": 0.0
+  },
+  {
+    "date": "2026-08-11",
+    "source": "App Store",
+    "rating": 1,
+    "text": "Frequent payment issues after the new release.",
+    "sentiment": "neutral",
+    "sentiment_confidence": 0.2,
+    "sentiment_score": 0.0
+  },
+  {
+    "date": "2026-08-13",
+    "source": "App Store",
+    "rating": 4,
+    "text": "Feature set is great but a bit slow.",
+    "sentiment": "positive",
+    "sentiment_confidence": 0.497,
+    "sentiment_score": 0.372
+  },
+  {
+    "date": "2026-08-16",
+    "source": "App Store",
+    "rating": 5,
+    "text": "Very polished and reliable.",
+    "sentiment": "neutral",
+    "sentiment_confidence": 0.2,
+    "sentiment_score": 0.0
+  },
+  {
+    "date": "2026-08-18",
+    "source": "App Store",
+    "rating": 2,
+    "text": "Notifications never show up sometimes.",
+    "sentiment": "neutral",
+    "sentiment_confidence": 0.2,
+    "sentiment_score": 0.0
+  },
+  {
+    "date": "2026-08-21",
+    "source": "App Store",
+    "rating": 3,
+    "text": "Good app with some navigation issues.",
+    "sentiment": "positive",
+    "sentiment_confidence": 0.552,
+    "sentiment_score": 0.44
+  },
+  {
+    "date": "2026-08-24",
+    "source": "App Store",
+    "rating": 1,
+    "text": "The app is unusable because of login bugs.",
+    "sentiment": "neutral",
+    "sentiment_confidence": 0.2,
+    "sentiment_score": 0.0
+  },
+  {
+    "date": "2026-08-27",
+    "source": "App Store",
+    "rating": 4,
+    "text": "I like the updates and the support team.",
+    "sentiment": "positive",
+    "sentiment_confidence": 0.71,
+    "sentiment_score": 0.637
+  },
+  {
+    "date": "2026-08-01",
+    "source": "Google Play",
+    "rating": 5,
+    "text": "App is fast and the new dashboard looks great.",
+    "sentiment": "positive",
+    "sentiment_confidence": 0.7,
+    "sentiment_score": 0.625
+  },
+  {
+    "date": "2026-08-02",
+    "source": "App Store",
+    "rating": 4,
+    "text": "Good experience overall, but notifications are delayed.",
+    "sentiment": "negative",
+    "sentiment_confidence": 0.282,
+    "sentiment_score": -0.103
+  },
+  {
+    "date": "2026-08-03",
+    "source": "CSV",
+    "rating": 4,
+    "text": "The workflow is simple and the support team is helpful.",
+    "sentiment": "positive",
+    "sentiment_confidence": 0.736,
+    "sentiment_score": 0.67
+  },
+  {
+    "date": "2026-08-04",
+    "source": "Google Play",
+    "rating": 2,
+    "text": "The app keeps crashing on login and freezes often.",
+    "sentiment": "neutral",
+    "sentiment_confidence": 0.221,
+    "sentiment_score": -0.026
+  },
+  {
+    "date": "2026-08-05",
+    "source": "App Store",
+    "rating": 3,
+    "text": "Mostly okay, but syncing is inconsistent.",
+    "sentiment": "positive",
+    "sentiment_confidence": 0.292,
+    "sentiment_score": 0.115
+  },
+  {
+    "date": "2026-08-06",
+    "source": "CSV",
+    "rating": 2,
+    "text": "CSV imports are unstable and the bug is frustrating.",
+    "sentiment": "negative",
+    "sentiment_confidence": 0.728,
+    "sentiment_score": -0.66
+  },
+  {
+    "date": "2026-08-07",
+    "source": "Google Play",
+    "rating": 5,
+    "text": "Love the new features and responsive support.",
+    "sentiment": "positive",
+    "sentiment_confidence": 0.884,
+    "sentiment_score": 0.856
+  },
+  {
+    "date": "2026-08-08",
+    "source": "App Store",
+    "rating": 1,
+    "text": "The app is unusable because of login bugs.",
+    "sentiment": "neutral",
+    "sentiment_confidence": 0.2,
+    "sentiment_score": 0.0
+  },
+  {
+    "date": "2026-08-09",
+    "source": "CSV",
+    "rating": 5,
+    "text": "Very polished and reliable.",
+    "sentiment": "neutral",
+    "sentiment_confidence": 0.2,
+    "sentiment_score": 0.0
+  },
+  {
+    "date": "2026-08-10",
+    "source": "Google Play",
+    "rating": 1,
+    "text": "The latest update broke sign in completely.",
+    "sentiment": "negative",
+    "sentiment_confidence": 0.537,
+    "sentiment_score": -0.421
+  },
+  {
+    "date": "2026-08-11",
+    "source": "App Store",
+    "rating": 3,
+    "text": "Good app with some navigation issues.",
+    "sentiment": "positive",
+    "sentiment_confidence": 0.552,
+    "sentiment_score": 0.44
+  },
+  {
+    "date": "2026-08-12",
+    "source": "CSV",
+    "rating": 4,
+    "text": "The export workflow works well but could be clearer.",
+    "sentiment": "positive",
+    "sentiment_confidence": 0.312,
+    "sentiment_score": 0.141
+  },
+  {
+    "date": "2026-08-13",
+    "source": "Google Play",
+    "rating": 4,
+    "text": "Nice app, but some pages load slowly.",
+    "sentiment": "positive",
+    "sentiment_confidence": 0.381,
+    "sentiment_score": 0.226
+  },
+  {
+    "date": "2026-08-14",
+    "source": "App Store",
+    "rating": 5,
+    "text": "I like the updates and the support team.",
+    "sentiment": "positive",
+    "sentiment_confidence": 0.71,
+    "sentiment_score": 0.637
+  },
+  {
+    "date": "2026-08-15",
+    "source": "CSV",
+    "rating": 3,
+    "text": "The app is decent but the notification settings are confusing.",
+    "sentiment": "negative",
+    "sentiment_confidence": 0.463,
+    "sentiment_score": -0.329
+  },
+  {
+    "date": "2026-08-16",
+    "source": "Google Play",
+    "rating": 2,
+    "text": "Billing page error keeps showing up.",
+    "sentiment": "negative",
+    "sentiment_confidence": 0.522,
+    "sentiment_score": -0.402
+  },
+  {
+    "date": "2026-08-17",
+    "source": "App Store",
+    "rating": 2,
+    "text": "Notifications never show up sometimes.",
+    "sentiment": "neutral",
+    "sentiment_confidence": 0.2,
+    "sentiment_score": 0.0
+  },
+  {
+    "date": "2026-08-18",
+    "source": "CSV",
+    "rating": 5,
+    "text": "Smooth experience and very helpful reminders.",
+    "sentiment": "positive",
+    "sentiment_confidence": 0.58,
+    "sentiment_score": 0.475
+  },
+  {
+    "date": "2026-08-19",
+    "source": "Google Play",
+    "rating": 5,
+    "text": "Love how responsive the UI feels.",
+    "sentiment": "positive",
+    "sentiment_confidence": 0.817,
+    "sentiment_score": 0.772
+  },
+  {
+    "date": "2026-08-20",
+    "source": "App Store",
+    "rating": 4,
+    "text": "Better than before, but the dashboard still loads slowly.",
+    "sentiment": "positive",
+    "sentiment_confidence": 0.391,
+    "sentiment_score": 0.238
+  },
+  {
+    "date": "2026-08-21",
+    "source": "CSV",
+    "rating": 1,
+    "text": "The app fails to load after update.",
+    "sentiment": "negative",
+    "sentiment_confidence": 0.537,
+    "sentiment_score": -0.421
+  },
+  {
+    "date": "2026-08-22",
+    "source": "Google Play",
+    "rating": 3,
+    "text": "Mostly okay, though the layout could be improved.",
+    "sentiment": "positive",
+    "sentiment_confidence": 0.69,
+    "sentiment_score": 0.612
+  },
+  {
+    "date": "2026-08-23",
+    "source": "App Store",
+    "rating": 5,
+    "text": "Excellent app with very useful reminders.",
+    "sentiment": "positive",
+    "sentiment_confidence": 0.827,
+    "sentiment_score": 0.784
+  },
+  {
+    "date": "2026-08-24",
+    "source": "CSV",
+    "rating": 4,
+    "text": "Overall good value with a few minor issues.",
+    "sentiment": "positive",
+    "sentiment_confidence": 0.719,
+    "sentiment_score": 0.649
+  }
+]

@@ -1,0 +1,45 @@
+date,source,rating,text,sentiment,sentiment_confidence,sentiment_score
+2026-08-01,Google Play,5,App is fast and the new dashboard looks great.,positive,0.7,0.625
+2026-08-04,Google Play,4,"Good experience overall, but notifications are delayed.",negative,0.282,-0.103
+2026-08-06,Google Play,2,The app keeps crashing on login and freezes often.,neutral,0.221,-0.026
+2026-08-09,Google Play,1,Very slow and the latest update broke sign in.,negative,0.537,-0.421
+2026-08-12,Google Play,3,"Mostly okay, but the UI can be confusing.",negative,0.381,-0.226
+2026-08-15,Google Play,5,Love the new features and responsive support.,positive,0.884,0.856
+2026-08-17,Google Play,2,Billing page error keeps showing up.,negative,0.522,-0.402
+2026-08-20,Google Play,4,"Nice app, but some pages load slowly.",positive,0.381,0.226
+2026-08-22,Google Play,1,The app fails to load after update.,negative,0.537,-0.421
+2026-08-25,Google Play,5,Smooth experience and very helpful reminders.,positive,0.58,0.475
+2026-08-02,App Store,5,App works smoothly and is easy to use.,positive,0.552,0.44
+2026-08-05,App Store,3,"The UI is clean, but syncing is inconsistent.",positive,0.372,0.214
+2026-08-08,App Store,2,Crashes when opening the dashboard.,neutral,0.2,0.0
+2026-08-11,App Store,1,Frequent payment issues after the new release.,neutral,0.2,0.0
+2026-08-13,App Store,4,Feature set is great but a bit slow.,positive,0.497,0.372
+2026-08-16,App Store,5,Very polished and reliable.,neutral,0.2,0.0
+2026-08-18,App Store,2,Notifications never show up sometimes.,neutral,0.2,0.0
+2026-08-21,App Store,3,Good app with some navigation issues.,positive,0.552,0.44
+2026-08-24,App Store,1,The app is unusable because of login bugs.,neutral,0.2,0.0
+2026-08-27,App Store,4,I like the updates and the support team.,positive,0.71,0.637
+2026-08-01,Google Play,5,App is fast and the new dashboard looks great.,positive,0.7,0.625
+2026-08-02,App Store,4,"Good experience overall, but notifications are delayed.",negative,0.282,-0.103
+2026-08-03,CSV,4,The workflow is simple and the support team is helpful.,positive,0.736,0.67
+2026-08-04,Google Play,2,The app keeps crashing on login and freezes often.,neutral,0.221,-0.026
+2026-08-05,App Store,3,"Mostly okay, but syncing is inconsistent.",positive,0.292,0.115
+2026-08-06,CSV,2,CSV imports are unstable and the bug is frustrating.,negative,0.728,-0.66
+2026-08-07,Google Play,5,Love the new features and responsive support.,positive,0.884,0.856
+2026-08-08,App Store,1,The app is unusable because of login bugs.,neutral,0.2,0.0
+2026-08-09,CSV,5,Very polished and reliable.,neutral,0.2,0.0
+2026-08-10,Google Play,1,The latest update broke sign in completely.,negative,0.537,-0.421
+2026-08-11,App Store,3,Good app with some navigation issues.,positive,0.552,0.44
+2026-08-12,CSV,4,The export workflow works well but could be clearer.,positive,0.312,0.141
+2026-08-13,Google Play,4,"Nice app, but some pages load slowly.",positive,0.381,0.226
+2026-08-14,App Store,5,I like the updates and the support team.,positive,0.71,0.637
+2026-08-15,CSV,3,The app is decent but the notification settings are confusing.,negative,0.463,-0.329
+2026-08-16,Google Play,2,Billing page error keeps showing up.,negative,0.522,-0.402
+2026-08-17,App Store,2,Notifications never show up sometimes.,neutral,0.2,0.0
+2026-08-18,CSV,5,Smooth experience and very helpful reminders.,positive,0.58,0.475
+2026-08-19,Google Play,5,Love how responsive the UI feels.,positive,0.817,0.772
+2026-08-20,App Store,4,"Better than before, but the dashboard still loads slowly.",positive,0.391,0.238
+2026-08-21,CSV,1,The app fails to load after update.,negative,0.537,-0.421
+2026-08-22,Google Play,3,"Mostly okay, though the layout could be improved.",positive,0.69,0.612
+2026-08-23,App Store,5,Excellent app with very useful reminders.,positive,0.827,0.784
+2026-08-24,CSV,4,Overall good value with a few minor issues.,positive,0.719,0.649
